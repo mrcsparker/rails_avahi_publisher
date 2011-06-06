@@ -1,0 +1,5 @@
+Rails Avahi Publisher
+=====================
+
+When finsihed, this gem will broadcast your rails apps to
+your local network via dns-sd.
